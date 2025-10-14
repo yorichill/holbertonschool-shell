@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -la" > ../io_redirections_and_filters/ls_cwd_content
+ls -la > ls_cwd_content
